@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img alt="Rocketfy" title="#delicinha" src="" width="100px" />
+<!--     <img alt="Rocketfy" title="#delicinha" src="" width="100px" /> -->
+    Rocketfy
 </h1>
 
 <h4 align="center">
