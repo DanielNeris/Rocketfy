@@ -32,6 +32,7 @@ The RocketShoes is an application that copy of the Pipefy, with the aim practice
 This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
+- [Yarn](https://yarnpkg.com/)
 
 ## :information_source: How to use
 
@@ -42,8 +43,6 @@ Through command line:
 ```bash
 # Clone this repositori
 $ https://github.com/DanielNeris/Rocketfy.git
-# Go to frontend
-$ cd frontend
 # Install dependences
 $ yarn install
 # Start the servidor
